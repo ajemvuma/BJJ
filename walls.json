@@ -361,6 +361,12 @@
             "collections":"Desktop Wallpapers.",
             "url":"https://raw.githubusercontent.com/ajemvuma/BJJ/master/Xande%20Ribeiro.png",
             "downloadable":"true"
-        }
+        }, 
+            "name":"JustRool..",
+            "author":"Geapinart.",
+            "collections":"Just BJJ.",
+            "url":"https://raw.githubusercontent.com/ajemvuma/BJJ/master/justrool.png",
+            "downloadable":"true"
+       }
     ]
 }
